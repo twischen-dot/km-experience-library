@@ -1,0 +1,29 @@
+{
+  "project_id": "P-0002",
+  "version": "pilot-v0.1.0",
+  "recorded_at": "见正文原记录日期",
+  "packaged_at": "2026-11-12",
+  "source": "https://github.com/twischen-dot/km-experience-library/tree/pilot-v0.1.0/projects/P-0002-云文件同步验收",
+  "files": [
+    {
+      "path": "010-阅读使用指南.md",
+      "sha256": "7ef8caaa3e155c960bb50735452a286c9df8f7f99f103c67ceee740e18be4972"
+    },
+    {
+      "path": "D-000003.md",
+      "sha256": "d946c22ca767cca6911f8e58c487e8ce4a6357e8439bfc2582b303b48e18de35"
+    },
+    {
+      "path": "D-000004.md",
+      "sha256": "f92966c0aa2bb518d3e89a698229a3ff11ffecdfaf4ed4281398180566b3eaab"
+    },
+    {
+      "path": "README.md",
+      "sha256": "664fb057c09253c8cd6eca4d47f617b1db486793f00afe015cd727820fec2b73"
+    },
+    {
+      "path": "使用与分享说明.md",
+      "sha256": "917828c42a6ca5fa54e1ada3904dd33786aff6b9a4ef747b2341ac9979404757"
+    }
+  ]
+}

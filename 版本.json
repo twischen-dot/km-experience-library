@@ -1,0 +1,22 @@
+{
+  "version": "pilot-v0.1.0",
+  "updated": "2026-11-12",
+  "projects": [
+    {
+      "id": "P-0001",
+      "folder": "projects/P-0001-口述与笔记转图文",
+      "documents": [
+        "D-000001",
+        "D-000002"
+      ]
+    },
+    {
+      "id": "P-0002",
+      "folder": "projects/P-0002-云文件同步验收",
+      "documents": [
+        "D-000003",
+        "D-000004"
+      ]
+    }
+  ]
+}

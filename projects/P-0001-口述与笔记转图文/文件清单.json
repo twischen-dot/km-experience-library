@@ -1,0 +1,29 @@
+{
+  "project_id": "P-0001",
+  "version": "pilot-v0.1.0",
+  "recorded_at": "见正文原记录日期",
+  "packaged_at": "2026-11-12",
+  "source": "https://github.com/twischen-dot/km-experience-library/tree/pilot-v0.1.0/projects/P-0001-口述与笔记转图文",
+  "files": [
+    {
+      "path": "010-阅读使用指南.md",
+      "sha256": "6e1b6ad7dcd70271ab93057748ab7a43db46ac05cfe25c3eaddf55709d032ac9"
+    },
+    {
+      "path": "D-000001.md",
+      "sha256": "e674f8c91061de128a5aa2b87e295f463dc1c5244ec6835e211eeed25e491672"
+    },
+    {
+      "path": "D-000002.md",
+      "sha256": "db8e05bd7c8946a0356fa468853e6d8c49b17bbcca6c4c92452f006455131887"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b103c07328f5522a64952b7306561091407654312280aa6c266bcd21c5ffb9f9"
+    },
+    {
+      "path": "使用与分享说明.md",
+      "sha256": "917828c42a6ca5fa54e1ada3904dd33786aff6b9a4ef747b2341ac9979404757"
+    }
+  ]
+}
